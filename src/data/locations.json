@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Location1",
+        "features": [
+            "Sea",
+            "Museum",
+            "Park"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location2",
+        "features": [
+            "Mountain",
+            "Forest"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location3",
+        "features": [
+            "Snow",
+            "Sea",
+            "Desert"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location4",
+        "features": [
+            "Mountain",
+            "Sea",
+            "Museum"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location5",
+        "features": [
+            "Park",
+            "Sea",
+            "Mountain"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location6",
+        "features": [
+            "Park",
+            "Forest",
+            "Sea"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location7",
+        "features": [
+            "Mountain",
+            "Sea",
+            "Park"
+        ],
+        "score": 0
+    },
+    {
+        "name": "Location8",
+        "features": [
+            "Sea",
+            "Forest",
+            "Desert"
+        ],
+        "score": 0
+    }
+]
